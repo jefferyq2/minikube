@@ -20,7 +20,7 @@ require (
 	github.com/cloudevents/sdk-go/v2 v2.15.2
 	github.com/distribution/reference v0.6.0
 	github.com/docker/cli v26.1.2+incompatible
-	github.com/docker/docker v26.1.2+incompatible
+	github.com/docker/docker v26.1.5+incompatible
 	github.com/docker/go-connections v0.5.0
 	github.com/docker/go-units v0.5.0
 	github.com/docker/machine v0.16.2
@@ -31,8 +31,8 @@ require (
 	github.com/google/go-github/v62 v62.0.0
 	github.com/google/slowjam v1.1.1
 	github.com/google/uuid v1.6.0
-	github.com/hashicorp/go-getter v1.7.4
-	github.com/hashicorp/go-retryablehttp v0.7.6
+	github.com/hashicorp/go-getter v1.7.5
+	github.com/hashicorp/go-retryablehttp v0.7.7
 	github.com/hooklift/iso9660 v1.0.0
 	github.com/jmoiron/sqlx v1.4.0
 	github.com/johanneswuerbach/nfsexports v0.0.0-20200318065542-c48c3734757f
@@ -49,7 +49,7 @@ require (
 	github.com/moby/patternmatcher v0.6.0
 	github.com/olekukonko/tablewriter v0.0.5
 	github.com/opencontainers/go-digest v1.0.0
-	github.com/opencontainers/runc v1.1.12
+	github.com/opencontainers/runc v1.1.14
 	github.com/otiai10/copy v1.14.0
 	github.com/phayes/freeport v0.0.0-20180830031419-95f893ade6f2
 	github.com/pkg/browser v0.0.0-20210911075715-681adbf594b8
@@ -74,7 +74,7 @@ require (
 	golang.org/x/sync v0.7.0
 	golang.org/x/sys v0.20.0
 	golang.org/x/term v0.20.0
-	golang.org/x/text v0.15.0
+	golang.org/x/text v0.16.0
 	gonum.org/v1/plot v0.14.0
 	google.golang.org/api v0.180.0
 	gopkg.in/yaml.v2 v2.4.0
@@ -112,7 +112,7 @@ require (
 	github.com/campoy/embedmd v1.0.0 // indirect
 	github.com/census-instrumentation/opencensus-proto v0.4.1 // indirect
 	github.com/cespare/xxhash/v2 v2.2.0 // indirect
-	github.com/containerd/containerd v1.6.19 // indirect
+	github.com/containerd/containerd v1.6.26 // indirect
 	github.com/containerd/log v0.1.0 // indirect
 	github.com/containerd/stargz-snapshotter/estargz v0.14.3 // indirect
 	github.com/coreos/go-systemd/v22 v22.5.0 // indirect
@@ -222,10 +222,10 @@ require (
 	go.opentelemetry.io/otel/metric v1.26.0 // indirect
 	go.uber.org/multierr v1.11.0 // indirect
 	go.uber.org/zap v1.27.0 // indirect
-	golang.org/x/image v0.11.0 // indirect
+	golang.org/x/image v0.18.0 // indirect
 	golang.org/x/net v0.25.0 // indirect
 	golang.org/x/time v0.5.0 // indirect
-	golang.org/x/tools v0.18.0 // indirect
+	golang.org/x/tools v0.21.1-0.20240508182429-e35e4ccd0d2d // indirect
 	google.golang.org/genproto v0.0.0-20240401170217-c3f982113cda // indirect
 	google.golang.org/genproto/googleapis/api v0.0.0-20240506185236-b8a5c65736ae // indirect
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20240429193739-8cf5692501f6 // indirect
